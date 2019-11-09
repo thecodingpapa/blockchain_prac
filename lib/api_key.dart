@@ -1,1 +1,1 @@
-const String API_KEY = "c3fe577b7ad3e46ae6da884ebc3d57f581a65fe4e1d6759c1487e4ea4cd6dcf2";
+const String API_KEY = "Your cryptocompare.com API KEY here";
